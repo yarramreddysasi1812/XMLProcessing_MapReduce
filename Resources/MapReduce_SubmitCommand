@@ -1,0 +1,1 @@
+hadoop jar xmlData.jar XMLProcessing /xmlInput/ /xmlOutput/
